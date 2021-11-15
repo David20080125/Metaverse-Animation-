@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ozxmlscene>
+<ozml version="5.13">
+
+<displayversion>5.6</displayversion>
+
+<factory id="1" uuid="0e8d443513b611d89395000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="2" uuid="10405f52139811d8b4db000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="3" uuid="27f3ee8b229211d7925a00039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="4" uuid="46c844a813d311d8a438000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="5" uuid="49e466a6896b4dc4a3cccd7cbc432116">
+	<description>3D 对象媒体</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="6" uuid="558f10b4a1c011d7998900039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="7" uuid="65cb4dc9d4504fa281921f5f751fba06">
+	<description>小组件</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="8" uuid="69f1e0a52e7911d8b19a000a95b0025a">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="9" uuid="7644521e2e7911d891a6000a95b0025a">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="10" uuid="7d468273c013498e9806a0d7bc32fddf">
+	<description>项目</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="11" uuid="878a64bd193011d8bac3000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="12" uuid="8b8df2b5b33d11d7ab8900039366fb58">
+	<description>粒子单元格</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="13" uuid="eb05a238b3c511d7a70f00039366fb58">
+	<description>发射器</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="14" uuid="ec6a810f5a4c4fd0b298969462464ecd">
+	<description>3D 对象</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="15" uuid="f32e7a31146f11d8a20a000a95af9f7e">
+	<description>渐变</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="16" uuid="fdc1944b229111d7b1c300039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+
+<build></build>
+
+<description></description>
+
+<canvas>
+	<layout>1</layout>
+	<activeView>0</activeView>
+</canvas>
+
+<viewer subview="0">
+	<resolutionMode>0</resolutionMode>
+	<dynamicResolution>1</dynamicResolution>
+	<viewmode>0</viewmode>
+	<overlayOptions>125452</overlayOptions>
+	<oscOptions>30</oscOptions>
+	<compensateAspectRatio>1</compensateAspectRatio>
+	<renderFields>0</renderFields>
+	<showMotionBlur>0</showMotionBlur>
+	<showFrameBlending>1</showFrameBlending>
+	<showLighting>1</showLighting>
+	<showShadows>1</showShadows>
+	<showReflection>1</showReflection>
+	<showDepthOfField>0</showDepthOfField>
+	<renderFullView>0</renderFullView>
+	<renderQuality>2</renderQuality>
+	<textRenderQuality>2</textRenderQuality>
+	<showHighQualityResampling>0</showHighQualityResampling>
+	<showShapeAntialiasing>1</showShapeAntialiasing>
+	<show3DIntersectionAntialiasing>0</show3DIntersectionAntialiasing>
+	<cameraType>0</cameraType>
+	<cameraName>活跃的摄像机</cameraName>
+	<mirrorHMD>0</mirrorHMD>
+	<panZoom camera="0" zoom="1.0305556058883667" panX="133" panY="5" mode="2" centered="1"/>
+</viewer>
+
+<projectPanel>
+	<layersPreviewColumn>1</layersPreviewColumn>
+	<layersOpacityColumn>0</layersOpacityColumn>
+	<layersBlendColumn>0</layersBlendColumn>
+	<displayMasks>1</displayMasks>
+	<displayBehaviors>1</displayBehaviors>
+	<displayEffects>1</displayEffects>
+	<layersVerticalZoom>1.7999999523162842</layersVerticalZoom>
+	<mediaPreviewColumn>1</mediaPreviewColumn>
+	<mediaTypeColumn>1</mediaTypeColumn>
+	<mediaDurationColumn>1</mediaDurationColumn>
+	<mediaInUseColumn>1</mediaInUseColumn>
+	<mediaFrameSizeColumn>1</mediaFrameSizeColumn>
+	<mediaCompressorColumn>1</mediaCompressorColumn>
+	<mediaDepthColumn>1</mediaDepthColumn>
+	<mediaFrameRateColumn>1</mediaFrameRateColumn>
+	<mediaDataRateColumn>1</mediaDataRateColumn>
+	<mediaAudioRateColumn>1</mediaAudioRateColumn>
+	<mediaAudioFormatColumn>1</mediaAudioFormatColumn>
+	<mediaFileSizeColumn>1</mediaFileSizeColumn>
+	<mediaFileCreatedColumn>1</mediaFileCreatedColumn>
+	<mediaDileModifiedColumn>1</mediaDileModifiedColumn>
+	<mediaVerticalZoom>1.7999999523162842</mediaVerticalZoom>
+</projectPanel>
+
+<timeline>
+	<displayVideo>1</displayVideo>
+	<displayAudio>0</displayAudio>
+	<displayKeyframes>0</displayKeyframes>
+	<displayMasks>1</displayMasks>
+	<displayBehaviors>1</displayBehaviors>
+	<displayEffects>1</displayEffects>
+	<videoVerticalZoom>1.5555555555555556</videoVerticalZoom>
+	<audioVerticalZoom>1.5555555820465088</audioVerticalZoom>
+	<displayRange in="-755410799 1225000000 3 0" out="10626661863 1000000000 3 0"/>
+</timeline>
+
+<curveeditor>
+	<autozoom>0</autozoom>
+	<snapping>0</snapping>
+	<displayAudioWaveform>0</displayAudioWaveform>
+	<lockKeyframesInTime>0</lockKeyframesInTime>
+	<displayRange in="-755410799 1225000000 3 0" out="10626661863 1000000000 3 0"/>
+	<currentviewvolume originx="-0.61666187673469386" originy="-62.5" width="11.243323739999999" height="125"/>
+	<snapshotChannels>0</snapshotChannels>
+</curveeditor>
+
+<inspector>
+	<collapseState id="./1/100" state="1"/>
+	<collapseState id="./1/200" state="1"/>
+	<collapseState id="./1/344" state="1"/>
+</inspector>
+
+<scene>
+	<sceneSettings>
+		<width>1280</width>
+		<height>720</height>
+		<duration>600</duration>
+		<shouldOverrideFCDuration>0</shouldOverrideFCDuration>
+		<frameRate>60</frameRate>
+		<NTSC>1</NTSC>
+		<pixelAspectRatio>1</pixelAspectRatio>
+		<workingGamut>0</workingGamut>
+		<viewGamut>-1</viewGamut>
+		<optimizeForDisplay>0</optimizeForDisplay>
+		<backgroundColor red="0" green="0" blue="0" alpha="1"/>
+		<audioChannels>2</audioChannels>
+		<audioBitsPerSample>32</audioBitsPerSample>
+		<fieldRenderingMode>0</fieldRenderingMode>
+		<motionBlurSamples>8</motionBlurSamples>
+		<motionBlurDuration>1</motionBlurDuration>
+		<sharpScaling>0</sharpScaling>
+		<startTimecode>0</startTimecode>
+		<presetPath>/Applications/Motion.app/Contents/Resources/zh_CN.lproj/Presets/Project/Broadcast HD 720.preset</presetPath>
+		<backgroundMode>0</backgroundMode>
+		<reflectionRecursionLimit>2</reflectionRecursionLimit>
+		<glyphOSCMode>0</glyphOSCMode>
+		<animateFlag>0</animateFlag>
+		<parameterColorSpaceID>3</parameterColorSpaceID>
+		<savePreviewMovie>0</savePreviewMovie>
+		<Object3DEnvironments>100</Object3DEnvironments>
+	</sceneSettings>
+	<publishSettings>
+		<version>2</version>
+	</publishSettings>
+	<currentFrame>0 1 1 0</currentFrame>
+	<currentObject>3001924605</currentObject>
+	<activeLayer>10027</activeLayer>
+	<timeRange offset="0 1 1 0" duration="1201200 120000 1 0"/>
+	<playRange offset="0 1 1 0" duration="1201200 120000 1 0"/>
+	<flags>1</flags>
+	<audioTracks>0</audioTracks>
+	<timemarkerset/>
+	<guideset/>
+	<curvesets selected="1"/>
+	<scenenode name="项目" id="10025" factoryID="10" version="5">
+		<scenenode name="小组件" id="10026" factoryID="7" version="5">
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="-2002 120000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>16</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704"/>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="选项" id="103" flags="8589938688"/>
+				<parameter name="Hidden" id="102" flags="8589934608" default="0" value="1"/>
+				<parameter name="快照" id="101" flags="8589938706"/>
+				<parameter name="小组件" id="100" flags="8589934608" default="1.7777777777777777" value="1.7777777777777777"/>
+			</parameter>
+		</scenenode>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="-2002 120000 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>16</baseFlags>
+		<parameter name="属性" id="1" flags="8589938704"/>
+		<parameter name="对象" id="2" flags="8589938704"/>
+	</scenenode>
+	<layer name="群组" id="10027">
+		<scenenode name="发射器" id="3001924605" factoryID="13" version="5">
+			<scenenode name="Sphere" id="3001924606" factoryID="12" version="5">
+				<flags>0</flags>
+				<timing in="0 1 1 0" out="1199198 120000 1 0" offset="0 1 1 0"/>
+				<foldFlags>0</foldFlags>
+				<baseFlags>524304</baseFlags>
+				<parameter name="属性" id="1" flags="8589938704"/>
+				<parameter name="对象" id="2" flags="8589938704">
+					<parameter name="产生率" id="101" flags="8589934608" default="30" value="300"/>
+					<parameter name="生命" id="104" flags="8589934608" default="5" value="10"/>
+					<parameter name="笔画上的角度" id="145" flags="8724348928">
+						<curve type="1" default="0" value="0" round="0">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="0">
+								<time>0 1 1 0</time>
+								<value>0</value>
+								<outputTangentTime>0.33333333333333331</outputTangentTime>
+								<outputTangentValue>0</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="0">
+								<time>1 1 1 0</time>
+								<value>0</value>
+								<inputTangentTime>-0.33333333333333331</inputTangentTime>
+								<inputTangentValue>0</inputTangentValue>
+								<outputTangentTime>0.33333333333333331</outputTangentTime>
+								<outputTangentValue>-0</outputTangentValue>
+							</keypoint>
+						</curve>
+						<rangeName>笔画长度</rangeName>
+					</parameter>
+					<parameter name="笔画上的源起始帧" id="149" flags="8724348946">
+						<curve type="1" default="0" value="0" round="0">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<min>0</min>
+							<max>600</max>
+							<keypoint interpolation="1" flags="0">
+								<time>0 1 1 0</time>
+								<value>0</value>
+								<outputTangentTime>0.33333333333333331</outputTangentTime>
+								<outputTangentValue>0</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="0">
+								<time>1 1 1 0</time>
+								<value>0</value>
+								<inputTangentTime>-0.33333333333333331</inputTangentTime>
+								<inputTangentValue>0</inputTangentValue>
+								<outputTangentTime>0.33333333333333331</outputTangentTime>
+								<outputTangentValue>-0</outputTangentValue>
+							</keypoint>
+						</curve>
+						<rangeName>笔画长度</rangeName>
+					</parameter>
+					<parameter name="随机种子" id="131" flags="12884901888" default="3001924606" value="3001924606"/>
+					<parameter name="动态" id="137" flags="8589938688">
+						<foldFlags>8519684</foldFlags>
+					</parameter>
+					<parameter name="笔画上的间距" id="139" flags="8724348928">
+						<curve type="1" default="1" value="1" round="0">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<min>0.01</min>
+							<max>3.4028234663852886e+38</max>
+							<keypoint interpolation="1" flags="0">
+								<time>0 1 1 0</time>
+								<value>1</value>
+								<outputTangentTime>0.33333333333333331</outputTangentTime>
+								<outputTangentValue>0</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="0">
+								<time>1 1 1 0</time>
+								<value>1</value>
+								<inputTangentTime>-0.33333333333333331</inputTangentTime>
+								<inputTangentValue>0</inputTangentValue>
+								<outputTangentTime>0.33333333333333331</outputTangentTime>
+								<outputTangentValue>-0</outputTangentValue>
+							</keypoint>
+						</curve>
+						<rangeName>笔画长度</rangeName>
+					</parameter>
+					<parameter name="笔画上的宽度" id="140" flags="8724348928">
+						<curve type="1" default="1" value="1" round="0">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<min>0</min>
+							<max>3.4028234663852886e+38</max>
+							<keypoint interpolation="1" flags="0">
+								<time>0 1 1 0</time>
+								<value>1</value>
+								<outputTangentTime>0.33333333333333331</outputTangentTime>
+								<outputTangentValue>0</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="0">
+								<time>1 1 1 0</time>
+								<value>1</value>
+								<inputTangentTime>-0.33333333333333331</inputTangentTime>
+								<inputTangentValue>0</inputTangentValue>
+								<outputTangentTime>0.33333333333333331</outputTangentTime>
+								<outputTangentValue>-0</outputTangentValue>
+							</keypoint>
+						</curve>
+						<rangeName>笔画长度</rangeName>
+					</parameter>
+					<parameter name="笔画上的抖动" id="144" flags="8589938688">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8724348944">
+							<curve type="1" default="0" value="0" round="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="0">
+									<time>0 1 1 0</time>
+									<value>0</value>
+									<outputTangentTime>0.33333333333333331</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>262144 262144 1 0</time>
+									<value>0</value>
+									<inputTangentTime>-0.33333333333333331</inputTangentTime>
+									<inputTangentValue>0</inputTangentValue>
+									<outputTangentTime>0.33333333333333331</outputTangentTime>
+									<outputTangentValue>-0</outputTangentValue>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="Y" id="2" flags="8724348944">
+							<curve type="1" default="0" value="0" round="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="0">
+									<time>0 1 1 0</time>
+									<value>0</value>
+									<outputTangentTime>0.33333333333333331</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="0">
+									<time>262144 262144 1 0</time>
+									<value>0</value>
+									<inputTangentTime>-0.33333333333333331</inputTangentTime>
+									<inputTangentValue>0</inputTangentValue>
+									<outputTangentTime>0.33333333333333331</outputTangentTime>
+									<outputTangentValue>-0</outputTangentValue>
+								</keypoint>
+							</curve>
+						</parameter>
+						<rangeName>笔画长度</rangeName>
+					</parameter>
+					<parameter name="粒子源" id="128" flags="81604444160" default="3001924604" value="3001924604"/>
+				</parameter>
+			</scenenode>
+			<aspectRatio>0</aspectRatio>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="1199198 120000 1 0" offset="0 1 1 0"/>
+			<foldFlags>262144</foldFlags>
+			<baseFlags>524305</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704">
+				<parameter name="变换" id="100" flags="8589938704">
+					<parameter name="位置" id="101" flags="8589938688">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8589934608" default="0" value="-20.779186070658689"/>
+						<parameter name="Y" id="2" flags="8589934608" default="0" value="64.19027024919437"/>
+					</parameter>
+				</parameter>
+				<parameter name="灯光" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="阴影" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="倒影" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+			</parameter>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="形状参数" id="301" flags="8589938704">
+					<parameter name="于点处发射" id="303" flags="8589934594" default="0" value="0"/>
+					<parameter name="排列" id="328" flags="8590000130" default="1" value="1"/>
+					<parameter name="点" id="304" flags="8589934594" default="5" value="5"/>
+					<parameter name="栏" id="305" flags="8589934594" default="5" value="5"/>
+					<parameter name="行" id="306" flags="8589934594" default="5" value="5"/>
+					<parameter name="评级" id="359" flags="8589934594" default="5" value="5"/>
+					<parameter name="拼贴偏移" id="329" flags="8589934594" default="0" value="0"/>
+					<parameter name="原点" id="330" flags="8590000130" default="4" value="4"/>
+					<parameter name="构件样式" id="331" flags="8590000130" default="0" value="0"/>
+					<parameter name="Hidden" id="360" flags="8590000130" default="14" value="14"/>
+					<parameter name="Hidden" id="361" flags="8590000130" default="0" value="0"/>
+					<parameter name="原点" id="334" flags="8590000130" default="0" value="0"/>
+					<parameter name="构件样式" id="332" flags="8590000130" default="1" value="1"/>
+					<parameter name="原点" id="333" flags="8590000130" default="0" value="0"/>
+					<parameter name="随机播放顺序" id="335" flags="8589934594" default="0" value="0"/>
+					<parameter name="偏移" id="336" flags="8589934594" default="0" value="0"/>
+					<parameter name="半径" id="307" flags="8589934594" default="200" value="200"/>
+					<parameter name="起点" id="308" flags="8589938690">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="终点" id="309" flags="8589938690">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="大小" id="347" flags="8589938690">
+						<foldFlags>15</foldFlags>
+						<parameter name="宽度" id="1" flags="8589934610" default="300" value="300"/>
+						<parameter name="高度" id="2" flags="8589934610" default="300" value="300"/>
+						<parameter name="深度" id="3" flags="8589934610" default="300" value="300"/>
+					</parameter>
+					<parameter name="臂数" id="339" flags="8589934594" default="3" value="3"/>
+					<parameter name="每臂点数" id="340" flags="8589934594" default="10" value="10"/>
+					<parameter name="扭曲" id="341" flags="8589934594" default="0.25" value="0.25"/>
+					<parameter name="振幅" id="342" flags="8589934594" default="50" value="50"/>
+					<parameter name="频率" id="343" flags="8589934594" default="1" value="1"/>
+					<parameter name="相位" id="344" flags="8589934594" default="0" value="0"/>
+					<parameter name="消振" id="351" flags="8589934594" default="0" value="0"/>
+					<parameter name="发射 Alpha 截止" id="322" flags="8589934594" default="0.5" value="0.5"/>
+					<parameter name="形状源" id="326" flags="77309476866" default="0" value="0"/>
+					<parameter name="图像源" id="327" flags="77309476866" default="0" value="0"/>
+				</parameter>
+				<parameter name="反转堆栈" id="348" flags="8589934594" default="0" value="0"/>
+				<parameter name="发射器种子" id="349" flags="12884901890" default="3001924605" value="3001924605"/>
+				<parameter name="3D" id="356" flags="8589934592" default="0" value="1"/>
+				<parameter name="渲染粒子" id="362" flags="8590000128" default="1" value="0"/>
+			</parameter>
+		</scenenode>
+		<scenenode name="Sphere" id="3001924604" factoryID="14" version="5">
+			<aspectRatio>0</aspectRatio>
+			<flags>0</flags>
+			<timing in="-106106 120000 1 0" out="1093092 120000 1 0" offset="-106106 120000 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<enabled>0</enabled>
+			<parameter name="属性" id="1" flags="8589938704">
+				<parameter name="变换" id="100" flags="8589938704">
+					<parameter name="位置" id="101" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8589934608" default="0" value="-260.85218602477403"/>
+						<parameter name="Y" id="2" flags="8589934608" default="0" value="-261.18743818578366"/>
+					</parameter>
+					<parameter name="缩放" id="105" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8589934608" default="1" value="-0.020263430413217719"/>
+						<parameter name="Y" id="2" flags="8589934608" default="1" value="-0.020263430413217723"/>
+						<parameter name="Z" id="3" flags="8589934608" default="1" value="0.020263430413217723"/>
+					</parameter>
+					<parameter name="修剪" id="106" flags="8594198578">
+						<foldFlags>15</foldFlags>
+					</parameter>
+				</parameter>
+				<parameter name="灯光" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="阴影" id="234" flags="8594198578">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="倒影" id="223" flags="8594231346">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="投影" id="208" flags="8594231346">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="四角" id="207" flags="8594231330">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="裁剪" id="216" flags="8594231346">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="媒体" id="300" flags="8589938704">
+					<parameter name="源媒体" id="301" flags="81604444176" default="3001924602" value="3001924602"/>
+				</parameter>
+				<parameter name="重新定时值" id="309" flags="8590065938">
+					<curve type="1" default="1" value="1" retimingExtrapolation="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<postExtrapolation>1</postExtrapolation>
+						<keypoint interpolation="1" flags="0">
+							<time>0 120000 1 0</time>
+							<value>1</value>
+						</keypoint>
+						<keypoint interpolation="1" flags="0">
+							<time>1201200 120000 1 0</time>
+							<value>601</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="重新定时值缓存" id="316" flags="8590065682">
+					<curve type="1" default="1" value="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="128">
+							<time>0 1 1 0</time>
+							<value>1</value>
+						</keypoint>
+						<keypoint interpolation="1" flags="128">
+							<time>1201200 120000 1 0</time>
+							<value>601</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="时间长度缓存" id="317" flags="8589934610" default="0" value="600"/>
+			</parameter>
+			<parameter name="对象" id="2" flags="8589938704">
+				<parameter name="自定单元大小" id="303" flags="12884934656" default="5.1199996093750295" value="5.1199996093750295"/>
+			</parameter>
+		</scenenode>
+		<aspectRatio>1</aspectRatio>
+		<flags>0</flags>
+		<timing in="-106106 120000 1 0" out="1199198 120000 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="属性" id="1" flags="8589938704">
+			<parameter name="灯光" id="230" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="阴影" id="234" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="倒影" id="223" flags="8589971474">
+				<foldFlags>131087</foldFlags>
+			</parameter>
+		</parameter>
+		<parameter name="对象" id="2" flags="8589938704">
+			<parameter name="固定宽度" id="302" flags="12884901908" default="1280" value="1280"/>
+			<parameter name="固定高度" id="303" flags="12884901908" default="720" value="720"/>
+			<parameter name="展平" id="311" flags="8589934610" default="0" value="0"/>
+			<parameter name="层顺序" id="305" flags="8589934610" default="0" value="0"/>
+			<parameter name="光圈宽度" id="312" flags="12884901906" default="1280" value="1280"/>
+			<parameter name="光圈高度" id="313" flags="12884901906" default="720" value="720"/>
+		</parameter>
+	</layer>
+
+	<footage name="媒体层" id="3001924603">
+		<scenenode name="/Applications/Motion.app/Contents/LibraryContent/3D Objects.localized/Shapes.localized/Sphere.usdz" id="3001924602" factoryID="5" version="5">
+			<pathURL>file:///Applications/Motion.app/Contents/LibraryContent/3D%20Objects.localized/Shapes.localized/Sphere.usdz</pathURL>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="0 120000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="属性" id="1" flags="8589938704"/>
+			<parameter name="对象" id="2" flags="8589938704"/>
+		</scenenode>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="-2002 120000 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="属性" id="1" flags="8589938704"/>
+		<parameter name="对象" id="2" flags="8589938704"/>
+	</footage>
+</scene>
+
+</ozml>
